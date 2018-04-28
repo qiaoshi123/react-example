@@ -1,2 +1,2 @@
 # react-example
-react-exampl   first commite
+react-exampl   first commit
